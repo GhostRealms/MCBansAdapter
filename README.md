@@ -1,0 +1,2 @@
+# MCBansAdapter
+MCBans Adapter Plugin
